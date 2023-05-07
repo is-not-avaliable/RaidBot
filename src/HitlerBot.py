@@ -2,7 +2,7 @@ from discord import *
 from discord.ext import commands
 import discord, asyncio, random, time
 
-TOKEN = "OTY0OTkzNjA4NjQ4Mzc2MzQw.Gjs_Rq.vtemwNwspbbrH21oF3TdJtH4C3bxUQak3a2wso"
+TOKEN = "" # put your token here
 
 # intents
 pr = discord.ext.commands.bot
