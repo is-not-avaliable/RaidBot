@@ -22,6 +22,6 @@ TOKEN = "" # <-- put your token here
 ```
 - correr el codigo
 ```bash
-python3 main.py
+python3 HitlerBot.py
 ```
 
