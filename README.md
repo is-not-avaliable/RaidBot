@@ -1,6 +1,6 @@
 # Discord Raid BOT Based on Adolf Hitler
 <br/>
-## Instalacion
+** Instalacion
 
 - clonar el repositorio:
 ```bash
